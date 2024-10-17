@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%to%Min%Seok's%profile!&fontSize=90" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZhMTZlb24zODRranhwdnp6MDB1Zmprc2ZlbGJreHJjOWJ5M2YwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yGa7hxfeNbUDmYAErP/giphy.gif"></img>
